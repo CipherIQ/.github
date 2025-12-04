@@ -1,1 +1,1 @@
-![CipherIQ Logo](/images/chiperiq_logo_2x.png)
+![CipherIQ Logo](/images/cipheriq_logo_2x.png)
